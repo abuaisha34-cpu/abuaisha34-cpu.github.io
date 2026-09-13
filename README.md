@@ -1,2 +1,3 @@
-# abuaisha34-cpu.github.io
-Сайт ЕВТ Захід / Грінфід ERP
+# ЕВТ Захід
+
+Сайт: https://abuaisha34-cpu.github.io/
