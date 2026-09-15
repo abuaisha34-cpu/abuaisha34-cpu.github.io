@@ -1,0 +1,1 @@
+const EVT_FARMS = [];
